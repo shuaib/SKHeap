@@ -76,7 +76,7 @@
     return array;
 }
 
-#pragma makr - Private Methods;
+#pragma mark - Private Methods;
 
 - (int)parentOf:(int)i
 {
