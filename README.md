@@ -1,7 +1,7 @@
 SKHeap
 ======
 
-Just a sample implementation of a HeapSort and MaxHeap.
+Just a sample implementation of a HeapSort algorithm using a custom MaxHeap.
 
 Heap is a data structure that allows access to maximum element in a set in constant time,
 while allowing retrieval (pop) of maximum element in O(lgN). It also allows insertion in
